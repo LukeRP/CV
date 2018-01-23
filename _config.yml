@@ -2,13 +2,13 @@
 title: Luke Peters
 email: LukeRPeters@gmail.com
 description: My li'l splash page.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/CV" # the subpath of your site, e.g. /blog
+url: "https://github.com/LukeRP" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
 facebook_url: https://facebook.com
-github_url: github.com/LukeRP
+github_url: https://github.com/LukeRP
 gitlab_url: 
 googleplus_url: 
 instagram_url: https://instagram.com
