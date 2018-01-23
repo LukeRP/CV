@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Highlights
-description: A fun little { responsive } single pager by <a href="http://html5up.net">HTML5 UP</a>
+title: Luke Peters
+description: A fun way to view Luke's <a href="https://github.com/LukeRP">github</a>
 ---
