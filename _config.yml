@@ -3,7 +3,7 @@ title: Luke Peters
 email: LukeRPeters@gmail.com
 description: My li'l splash page.
 baseurl: "/CV" # the subpath of your site, e.g. /blog
-url: "https://github.com/LukeRP" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
